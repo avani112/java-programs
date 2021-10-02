@@ -1,2 +1,2 @@
 # Java-Programs
-details of program
+Usefull java programs
